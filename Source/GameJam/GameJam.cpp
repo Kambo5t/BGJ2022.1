@@ -4,6 +4,3 @@
 #include "Modules/ModuleManager.h"
 
 IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, GameJam, "GameJam" );
-
-DEFINE_LOG_CATEGORY(LogGameJam)
- 
